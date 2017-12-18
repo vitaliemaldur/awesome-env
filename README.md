@@ -15,3 +15,9 @@ Page with awesome tools for my coding environment
 ### Command line/Terminal
 
 - [tmux](https://github.com/tmux/tmux/wiki)
+
+### Productivity tools
+
+- [Block Site](https://blocksite.co/) block sites from chrome
+- [RescueTime](https://rescuetime.com) track time spent in different apps
+- 
