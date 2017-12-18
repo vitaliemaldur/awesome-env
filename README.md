@@ -11,3 +11,7 @@ Page with awesome tools for my coding environment
 
 - [Visual Code](https://code.visualstudio.com/)
 - [Vim](http://www.vim.org/)
+
+### Command line/Terminal
+
+- [tmux](https://github.com/tmux/tmux/wiki)
