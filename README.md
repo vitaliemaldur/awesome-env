@@ -14,10 +14,11 @@ Page with awesome tools for my coding environment
 
 ### Command line/Terminal
 
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) framework for managing your zsh configuration
+- [bash-it](https://github.com/Bash-it/bash-it) a community Bash framework
 - [tmux](https://github.com/tmux/tmux/wiki)
 
 ### Productivity tools
 
 - [Block Site](https://blocksite.co/) block sites from chrome
 - [RescueTime](https://rescuetime.com) track time spent in different apps
-- 
