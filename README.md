@@ -22,3 +22,7 @@ Page with awesome tools for my coding environment
 
 - [Block Site](https://blocksite.co/) block sites from chrome
 - [RescueTime](https://rescuetime.com) track time spent in different apps
+
+### Communication
+
+ - [Slack](https://slack.com)
