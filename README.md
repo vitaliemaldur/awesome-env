@@ -4,9 +4,9 @@ Page with awesome tools for my coding environment
 ### Command line/Terminal
 
 - [Homebrew](https://brew.sh/) package manager for macOS
-- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) source code version control system
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) framework for managing your zsh configuration
-- [tmux](https://github.com/tmux/tmux/wiki)
+- [tmux](https://github.com/tmux/tmux/wiki) terminal multiplexer
 
 ### Python
 
