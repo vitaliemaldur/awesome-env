@@ -1,0 +1,9 @@
+[user]
+	email = maldur.vitalie@gmail.com
+	name = Vitalie Maldur
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
+	df = diff
