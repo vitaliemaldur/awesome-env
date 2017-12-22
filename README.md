@@ -1,6 +1,13 @@
 # awesome-env
 Page with awesome tools for my coding environment
 
+### Command line/Terminal
+
+- [Homebrew](https://brew.sh/) package manager for macOS
+- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) framework for managing your zsh configuration
+- [tmux](https://github.com/tmux/tmux/wiki)
+
 ### Python
 
 - [Ipdb](https://github.com/gotcha/ipdb)
@@ -11,12 +18,6 @@ Page with awesome tools for my coding environment
 
 - [Visual Code](https://code.visualstudio.com/)
 - [Vim](http://www.vim.org/)
-
-### Command line/Terminal
-
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) framework for managing your zsh configuration
-- [bash-it](https://github.com/Bash-it/bash-it) a community Bash framework
-- [tmux](https://github.com/tmux/tmux/wiki)
 
 ### Productivity tools
 
