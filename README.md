@@ -14,6 +14,10 @@ Page with awesome tools for my coding environment
 - [IPython](http://ipython.org/)
 - [virtualenvwrapper](http://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html)
 
+### Node
+
+- [n](https://github.com/tj/n) Node version management
+
 ### Editors/IDEs
 
 - [Visual Code](https://code.visualstudio.com/)
