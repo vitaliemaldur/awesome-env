@@ -7,6 +7,7 @@ Page with awesome tools for my coding environment
 - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) source code version control system
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) framework for managing your zsh configuration
 - [tmux](https://github.com/tmux/tmux/wiki) terminal multiplexer
+- [iTerm2](https://www.iterm2.com/) terminal emulator for macOS
 
 ### Python
 
