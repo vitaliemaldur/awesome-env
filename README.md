@@ -15,6 +15,8 @@ Page with awesome tools for my coding environment
 - [Ipdb](https://github.com/gotcha/ipdb)
 - [IPython](http://ipython.org/)
 - [virtualenvwrapper](http://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html)
+- [pyenv](https://github.com/pyenv/pyenv)
+- [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)
 
 ### Node
 
