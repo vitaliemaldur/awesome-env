@@ -25,7 +25,6 @@ Page with awesome tools for my coding environment
 
 - [Visual Code](https://code.visualstudio.com/)
     - [Settings sync](https://github.com/shanalikhan/code-settings-sync)
-    - 
 - [Vim](http://www.vim.org/)
 
 ### Browser Extensions
