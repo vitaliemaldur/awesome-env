@@ -5,7 +5,7 @@ Page with awesome tools for my coding environment
 
 - [Homebrew](https://brew.sh/) package manager for macOS
 - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) source code version control system
-- tig
+- [tig](https://jonas.github.io/tig/) text-mode interface for Git
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) framework for managing your zsh configuration
 - [iTerm2](https://www.iterm2.com/) terminal emulator for macOS
 
@@ -19,7 +19,7 @@ Page with awesome tools for my coding environment
 
 ### Node
 
-- [n](https://github.com/tj/n) Node version management
+- [nvm](https://github.com/creationix/nvm) Node version management
 
 ### Editors/IDEs
 
