@@ -25,7 +25,12 @@ Page with awesome tools for my coding environment
 
 - [Visual Code](https://code.visualstudio.com/)
     - [Settings sync](https://github.com/shanalikhan/code-settings-sync)
+    - 
 - [Vim](http://www.vim.org/)
+
+### Browser Extensions
+- [LastPass](http://lastpass.com) password manager
+- [AdblockPlus](https://adblockplus.org/) ad-blocker
 
 ### Productivity tools
 
